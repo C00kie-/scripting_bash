@@ -1,6 +1,6 @@
 # scripting_bash
 
-Use [Markdown]!(https://daringfireball.net/projects/markdown/syntax#autolink) 
+Use [Markdown](https://daringfireball.net/projects/markdown/syntax#autolink)!
 
 **Mémo des petits trucs basiques en bash, ou pour commencer:**
 
