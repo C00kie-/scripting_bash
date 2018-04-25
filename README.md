@@ -4,7 +4,7 @@ Use [Markdown](https://daringfireball.net/projects/markdown/syntax#autolink)!
 
 **Mémo des petits trucs basiques en bash, ou pour commencer:**
 
-## Rendre le script executable : $ ./script.sh
+## Rendre le script exécutable : $ ./script.sh
 ## Où l'exécuter?
 Exécute le script dans le courant ./
 
@@ -40,7 +40,7 @@ command : env
 Dans le script bash elles sont accessibles par leur $NOM.
 
 
-## Les parametres 
+## Les paramètres 
 $# le nb de paramètres
 
 $0 le nom du script
